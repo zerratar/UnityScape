@@ -23,6 +23,15 @@ ExportedObj/
 *.svd
 *.pdb
 
+
+**/Library/Script*
+**/Library/Shader*
+**/Library/*.log
+**/Library/ShaderCache/*
+**/Library/metadata/*
+**/.vs/*
+**/Debug/*
+**/Temp/*
 # Unity3D generated meta files
 *.pidb.meta
 
